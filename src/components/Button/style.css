@@ -1,0 +1,28 @@
+.button-container{
+    display: inline-flex;
+    width: 25%;
+    flex: 1 0 auto;
+    height: 100%;
+}
+
+.button-container button {
+    font-size: 1.5rem;
+    flex: 1 0 auto;
+    padding: 0;
+    border: 1px solid rgb(224, 224, 224);
+    cursor: pointer;
+}
+
+.button-container button:hover{
+    background-color: rgb(209, 206, 206);
+}
+
+.button-container.white button:hover{
+    background-color: rgb(209, 206, 206);
+}
+
+.button-container.white button{
+    background-color: white;
+}
+
+
