@@ -6,7 +6,7 @@ Download the code and try it.
 Download : 
 ---
 
-git clone git@github.com:RohankumarM/calculator-react.git
+`git clone git@github.com:RohankumarM/calculator-react.git`
 
 Install:
 ---
