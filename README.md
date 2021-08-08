@@ -2,7 +2,6 @@ Calculator using React.
 ----
 
 Download the code and try it. 
----
 
 Download : 
 ---
